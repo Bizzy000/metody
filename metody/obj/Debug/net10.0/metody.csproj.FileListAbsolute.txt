@@ -1,0 +1,14 @@
+/Users/bizzy/Documents/vsc/metody/bin/Debug/net10.0/metody
+/Users/bizzy/Documents/vsc/metody/bin/Debug/net10.0/metody.deps.json
+/Users/bizzy/Documents/vsc/metody/bin/Debug/net10.0/metody.runtimeconfig.json
+/Users/bizzy/Documents/vsc/metody/bin/Debug/net10.0/metody.dll
+/Users/bizzy/Documents/vsc/metody/bin/Debug/net10.0/metody.pdb
+/Users/bizzy/Documents/vsc/metody/obj/Debug/net10.0/metody.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bizzy/Documents/vsc/metody/obj/Debug/net10.0/metody.AssemblyInfoInputs.cache
+/Users/bizzy/Documents/vsc/metody/obj/Debug/net10.0/metody.AssemblyInfo.cs
+/Users/bizzy/Documents/vsc/metody/obj/Debug/net10.0/metody.csproj.CoreCompileInputs.cache
+/Users/bizzy/Documents/vsc/metody/obj/Debug/net10.0/metody.dll
+/Users/bizzy/Documents/vsc/metody/obj/Debug/net10.0/refint/metody.dll
+/Users/bizzy/Documents/vsc/metody/obj/Debug/net10.0/metody.pdb
+/Users/bizzy/Documents/vsc/metody/obj/Debug/net10.0/metody.genruntimeconfig.cache
+/Users/bizzy/Documents/vsc/metody/obj/Debug/net10.0/ref/metody.dll
