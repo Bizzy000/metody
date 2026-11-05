@@ -1,5 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
+
 
 string heroName = "Andrei";
 int health = 70;
